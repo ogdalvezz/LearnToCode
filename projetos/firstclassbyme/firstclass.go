@@ -33,6 +33,6 @@ func main() {
 		resultado := calcular(num1, num2, somar)
 		fmt.Println(resultado)
 	} else {
-		fmt.Println("Nao existe essa funçao, execute a calculadora novamente!")
+		fmt.Println("Nao existe essa funçao, execute a calculadora novamente")
 	}
 }
